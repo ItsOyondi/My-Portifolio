@@ -9,6 +9,7 @@ Portfolio highlighting all my projects
 
 1. To determine which of the operating regions has been profitable for America Airlines.
 2. To establish the relationship between  revenue and operating expenses.
+![image](https://user-images.githubusercontent.com/97532392/166568809-01e503a0-acb0-4678-81b8-9d37faccb00f.png)
 
 # [Project 2: Data Science Competition 2022](https://github.com/ItsOyondi/DSS-challenge---health-data)
 ##  Challenge started - to be updated later
