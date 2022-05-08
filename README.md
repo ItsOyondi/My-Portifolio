@@ -1,4 +1,5 @@
-# My-Portifolio
+# Josephat Oyondi Portfolio
+# Data Scientist
 Portfolio highlighting all my projects
 
 
