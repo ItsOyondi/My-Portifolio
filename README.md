@@ -14,5 +14,6 @@ Portfolio highlighting all my projects
 ##  Challenge started - to be updated later
 
 This task is a data science competition am currently working on. I will update the results here later. 
-*How do the factors within a person’s control and outside a person’s control af ect their
-wellbeing?
+### Main task: 
+   * To establish, How do the factors within a person’s control and outside a person’s control af ect their wellbeing?
+   
