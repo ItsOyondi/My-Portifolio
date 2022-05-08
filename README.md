@@ -1,5 +1,7 @@
 # My-Portifolio
-**Portfolio highlighting all my projects**
+Portfolio highlighting all my projects
+
+
 **Project 1
 STA_Project_American Airlines
 R PROGRAMMING PROJECT**
