@@ -18,4 +18,9 @@
 This task is a data science competition am currently working on. I will update the results here later. 
 ### Main task: 
    * To establish, How do the factors within a person’s control and outside a person’s control af ect their wellbeing?
+
+# [Project 3: Store sales time series forecasting](https://github.com/ItsOyondi/Time-series-ARIMA-model)
+The project uses data with 83000 rows in predicting the store sales for various company products. The naive model proved to be the most suitable predictor compared to the ARIMA model. 
+![image](https://user-images.githubusercontent.com/97532392/172060251-d5409308-9f24-475e-be81-82f737a41559.png)
+
    
