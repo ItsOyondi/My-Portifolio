@@ -24,3 +24,7 @@ The project uses data with 83000 rows in predicting the store sales for various 
 ![image](https://user-images.githubusercontent.com/97532392/172060251-d5409308-9f24-475e-be81-82f737a41559.png)
 
    
+# [Project 4: Music Recommender - Machine Learning with Decision Trees](https://github.com/ItsOyondi/Music-Recommender---Machine-Learning-1)
+his is a simple project using a simple data of the list of music various categories of adults and gender (male and female) to predict the type of music a certain person may like based on age and gender.
+The Model has an accuracy scope ranging between 75% to 100%. The model was tested and confirmed that it provides accurate predictions. In this model, i use JobLib package to create the model and save in my machine to avoid retraining of the model and maintain its persistence.
+![image](https://user-images.githubusercontent.com/97532392/173852369-8a7119a8-adcd-431c-b882-9ff6fd035793.png)
