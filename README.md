@@ -1,6 +1,6 @@
-# Portfolio: Josephat Oyondi 
+# Josephat Oyondi 
 # Data Scientist
-### Recent Projects
+### Recent Projects - Analytics, Machine Learning, Modeling ...
 
 
 # [Project 1: STA518_Project_American Airlines - R programming project](https://github.com/ItsOyondi/American-Airlines-financial-performance)
