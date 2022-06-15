@@ -1,4 +1,4 @@
-# Josephat Oyondi Portfolio
+# Portfolio: Josephat Oyondi 
 # Data Scientist
 ### Recent Projects
 
