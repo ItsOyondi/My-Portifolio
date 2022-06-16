@@ -29,3 +29,9 @@ This is a simple project using a simple data of the list of music various catego
 
 The Model has an accuracy scope ranging between 75% to 100%. The model was tested and confirmed that it provides accurate predictions. In this model, i use JobLib package to create the model and save in my machine to avoid retraining of the model and maintain its persistence.
 ![image](https://user-images.githubusercontent.com/97532392/173852369-8a7119a8-adcd-431c-b882-9ff6fd035793.png)
+
+# [Project 5: Machine Learning: Titanic survivors](https://github.com/ItsOyondi/Titatic-Survivors---ML-model)
+This project uses the titanic data and Python machine learning to predict the survival of different categories of people based on fare, age, sex and passenger class. 
+The machine learning model has an accuracy score of 95%. 
+i. Funny findings from the model prediction results: Fare was a major determinant for the survival rate followed by gender and Pclass.
+ii. Men who paid less fare did not survive compared to women with the same age and who paid the same fare. 
