@@ -31,6 +31,8 @@ The Model has an accuracy scope ranging between 75% to 100%. The model was teste
 ![image](https://user-images.githubusercontent.com/97532392/173852369-8a7119a8-adcd-431c-b882-9ff6fd035793.png)
 
 # [Project 5: Machine Learning: Titanic survivors](https://github.com/ItsOyondi/Titatic-Survivors---ML-model)
+![image](https://user-images.githubusercontent.com/97532392/174092088-a0035a0d-fd7f-4306-b4f8-cdbd07a13f2d.png)
+
 This project uses the titanic data and Python machine learning to predict the survival of different categories of people based on fare, age, sex and passenger class. 
 The machine learning model has an accuracy score of 95%. 
 i. Funny findings from the model prediction results: Fare was a major determinant for the survival rate followed by gender and Pclass.
