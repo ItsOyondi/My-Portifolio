@@ -12,25 +12,19 @@
 2. To establish the relationship between  revenue and operating expenses.
 ![image](https://user-images.githubusercontent.com/97532392/166568809-01e503a0-acb0-4678-81b8-9d37faccb00f.png)
 
-# [Project 2: Data Science Competition 2022](https://github.com/ItsOyondi/DSS-challenge---health-data)
-##  Challenge started - to be updated later
 
-This task is a data science competition am currently working on. I will update the results here later. 
-### Main task: 
-   * To establish, How do the factors within a person’s control and outside a person’s control af ect their wellbeing?
-
-# [Project 3: Store sales time series forecasting](https://github.com/ItsOyondi/Time-series-ARIMA-model)
+# [Project 2: Store sales time series forecasting](https://github.com/ItsOyondi/Time-series-ARIMA-model)
 The project uses data with 83000 rows in predicting the store sales for various company products. The naive model proved to be the most suitable predictor compared to the ARIMA model. 
 ![image](https://user-images.githubusercontent.com/97532392/172060251-d5409308-9f24-475e-be81-82f737a41559.png)
 
    
-# [Project 4: Music Recommender - Machine Learning with Decision Trees](https://github.com/ItsOyondi/Music-Recommender---Machine-Learning-1)
+# [Project 3: Music Recommender - Machine Learning with Decision Trees](https://github.com/ItsOyondi/Music-Recommender---Machine-Learning-1)
 This is a simple project using a simple data of the list of music various categories of adults and gender (male and female) to predict the type of music a certain person may like based on age and gender.
 
 The Model has an accuracy scope ranging between 75% to 100%. The model was tested and confirmed that it provides accurate predictions. In this model, i use JobLib package to create the model and save in my machine to avoid retraining of the model and maintain its persistence.
 ![image](https://user-images.githubusercontent.com/97532392/173852369-8a7119a8-adcd-431c-b882-9ff6fd035793.png)
 
-# [Project 5: Machine Learning: Titanic survivors](https://github.com/ItsOyondi/Titatic-Survivors---ML-model)
+# [Project 4: Machine Learning: Titanic survivors](https://github.com/ItsOyondi/Titatic-Survivors---ML-model)
 ![image](https://user-images.githubusercontent.com/97532392/174092088-a0035a0d-fd7f-4306-b4f8-cdbd07a13f2d.png)
 
 This project uses the titanic data and Python machine learning to predict the survival of different categories of people based on fare, age, sex and passenger class. 
