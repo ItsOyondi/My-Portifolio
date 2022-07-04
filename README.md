@@ -31,3 +31,7 @@ This project uses the titanic data and Python machine learning to predict the su
 The machine learning model has an accuracy score of 95%. 
 i. Funny findings from the model prediction results: Fare was a major determinant for the survival rate followed by gender and Pclass.
 ii. Men who paid less fare did not survive compared to women with the same age and who paid the same fare. 
+# [Project 5: Human-Resources-Analytics---Machine-Learning](https://github.com/ItsOyondi/Human-Resources-Analytics---Machine-Learning)
+This project focuses on analyzing the most important factors that contributes to employee turnover. Th project focuses on examining factors such as salary, satisfaction level, promotion in the past 5 years, work accidents, and time spent in a company. I created a machine learning model that uses 15000 rows of data to identify the factors in various departments. The model has an accuracy of ~80%, but the results tested so far are 100% accurate. Within the Python notebook, i have provided detailed insights on the ML model test. This project was inspired from https://www.kaggle.com/code/jacksonchou/hr-analytics/report.
+![image](https://user-images.githubusercontent.com/97532392/177225297-e170f527-a555-474d-8121-f9f5478ad4c3.png)
+
